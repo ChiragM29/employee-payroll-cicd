@@ -53,9 +53,9 @@ employee-payroll-cicd/
 
 ## ⚙️ Prerequisites
 
-- **Java JDK**: 17 or higher
-- **Maven**: 3.9+ (or build via Docker/javac)
-- **Docker**: Optional for container build and execution
+- **Java JDK**: 17 or higher (configured with JDK 21 / 17 target)
+- **Maven**: 3.9.6 installed (`C:\Users\Student-A\apache-maven-3.9.6`)
+- **Docker**: Containerized and verified (`chiru2912/employee-payroll-cicd:latest`)
 - **Git**: For version control
 
 ---
